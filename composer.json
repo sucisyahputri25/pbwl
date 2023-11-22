@@ -1,0 +1,17 @@
+{
+    "name": "suci/pbwl-project7",
+    "description": "Project 7 Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Suci",
+            "email": "suci@gmail.com"
+        }
+    ],
+    "require": {}
+}
